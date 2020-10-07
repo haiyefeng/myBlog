@@ -1,0 +1,20 @@
+Django==3.1.1
+PyMySQL==0.10.1
+mysqlclient==2.0.1
+# mysqlclient==1.4.4
+# MarkupSafe==1.1.1
+# Mako==1.0.6
+# requests==2.22.0
+# celery==3.1.25
+# django-celery==3.2.1
+# python-json-logger==0.1.7
+# whitenoise==3.3.0
+# six==1.11.0
+
+# v2 requirement
+# httplib2==0.9.1
+
+# DRF
+djangorestframework==3.12.1
+# django-filter==2.0.0
+# jsonfield==2.0.2
